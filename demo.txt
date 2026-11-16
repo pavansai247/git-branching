@@ -1,2 +1,2 @@
-git branching
+git
 step-1
